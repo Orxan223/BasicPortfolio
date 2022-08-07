@@ -287,4 +287,7 @@ nav a+a::before {
     cursor: pointer;
     background: #4aaaa5;
     border: 0 none;
+    margin-bottom: 30px;
+    margin-top: 7px;
+
 }
